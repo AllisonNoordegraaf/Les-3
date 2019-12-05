@@ -1,3 +1,14 @@
-h2{
-	color:pink;
+body{
+	background:lightblue;
+	margin:50px;
+	font-family: Courier New, monospace;
+	color:#38187d;
+}
+.lead{
+	font-size:1.3em;
+	color:white;
+
+}
+#first{
+	color:white;
 }
