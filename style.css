@@ -6,9 +6,22 @@ body{
 }
 .lead{
 	font-size:1.3em;
-	color:white;
-
+	color:#38187d;
+}
+#foto{
+	float: left;
+	margin-right:40px;
+	margin-bottom:40px;
 }
 #first{
-	color:white;
+	color:#38187d;
+	float: left;
+}
+#second{
+	clear:both;
+	width: 65%;
+
+}
+li{
+	margin-bottom: 10px;
 }
